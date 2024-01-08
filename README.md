@@ -14,6 +14,6 @@ Each flashcard displays a quiz question and multiple-choice answer options.
 Users can test their knowledge by selecting the correct answer.
 
 ## Technologies Used
-React
-Axios (for making API requests)
+React <br>
+Axios (for making API requests)<br>
 Open Trivia Database (OTDB)
